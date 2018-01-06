@@ -4,10 +4,10 @@ Swifty bindings for [BearLibTerminal](http://foo.wyrd.name/en:bearlibterminal).
 
 This repo is compatible with the Swift package manager.
 
-```
+```swift
 let terminal = RKTerminal.main
 terminal.open()
-terminal.print(point: RKPoint(x: 0, y: 0,), string: "[color=red]Hi![/color]")
+terminal.print(point: RKPoint(x: 0, y: 0), string: "[color=red]Hi![/color]")
 terminal.waitForExit()
 terminal.close()
 ```
