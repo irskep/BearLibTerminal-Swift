@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CBearLibTerminal",
+        "repositoryURL": "https://github.com/irskep/CBearLibTerminal.git",
+        "state": {
+          "branch": null,
+          "revision": "e45976355a3028a80daab8c89e30fe386a50d7bb",
+          "version": "1.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
