@@ -93,22 +93,22 @@ with Carthage or Cocoapods.</p>
 <h2 id='setup' class='heading'>Setup</h2>
 
 <p>You need to add a new dependency to your <code>Package.swift</code>:</p>
-<pre class="highlight plaintext"><code>// swift-tools-version:4.0
+<pre class="highlight swift"><code><span class="c1">// swift-tools-version:4.0</span>
 
-import PackageDescription
+<span class="kd">import</span> <span class="kt">PackageDescription</span>
 
-let package = Package(
-    name: "My Game",
-    dependencies: [
-         .package(url: "https://github.com/irskep/BearLibTerminal-Swift.git", from: "1.0.1"),
-    ],
-    targets: [
-        .target(
-            name: "My Game",
-            dependencies: ["BearLibTerminal"]),
+<span class="k">let</span> <span class="nv">package</span> <span class="o">=</span> <span class="kt">Package</span><span class="p">(</span>
+    <span class="nv">name</span><span class="p">:</span> <span class="s">"My Game"</span><span class="p">,</span>
+    <span class="nv">dependencies</span><span class="p">:</span> <span class="p">[</span>
+         <span class="o">.</span><span class="nf">package</span><span class="p">(</span><span class="nv">url</span><span class="p">:</span> <span class="s">"https://github.com/irskep/BearLibTerminal-Swift.git"</span><span class="p">,</span> <span class="nv">from</span><span class="p">:</span> <span class="s">"1.0.1"</span><span class="p">),</span>
+    <span class="p">],</span>
+    <span class="nv">targets</span><span class="p">:</span> <span class="p">[</span>
+        <span class="o">.</span><span class="nf">target</span><span class="p">(</span>
+            <span class="nv">name</span><span class="p">:</span> <span class="s">"My Game"</span><span class="p">,</span>
+            <span class="nv">dependencies</span><span class="p">:</span> <span class="p">[</span><span class="s">"BearLibTerminal"</span><span class="p">]),</span>
 
-    ]
-)
+    <span class="p">]</span>
+<span class="p">)</span>
 </code></pre>
 
 <p>You <strong>also</strong> need to link against the BearLibTerminal shared library! On OS X,
