@@ -1,5 +1,7 @@
 # BearLibTerminal-Swift
 
+**Latest version: 1.0.1**
+
 Swifty bindings for [BearLibTerminal](http://foo.wyrd.name/en:bearlibterminal).
 
 This repo is compatible with the Swift package manager. It has not yet been tested
