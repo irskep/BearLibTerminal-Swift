@@ -17,7 +17,7 @@ terminal.close()
 
 You need to add a new dependency to your `Package.swift`:
 
-```
+```swift
 // swift-tools-version:4.0
 
 import PackageDescription

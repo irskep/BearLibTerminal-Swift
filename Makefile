@@ -15,4 +15,4 @@ docs:
 		--github_url "https://github.com/irskep/BearLibTerminal-Swift"
 
 deploydocs: docs
-  ghp-import docs -npm "Update docs"
+	ghp-import docs -npm "Update docs"
