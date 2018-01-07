@@ -13,3 +13,6 @@ docs:
 		--copyright "2018 Steve Johnson" \
 		--root-url "http://steveasleep.com/BearLibTerminal-Swift" \
 		--github_url "https://github.com/irskep/BearLibTerminal-Swift"
+
+deploydocs: docs
+  ghp-import docs -npm "Update docs"
