@@ -1,6 +1,6 @@
 //
 //  BearLibTerminal+constants.swift
-//  RLSandbox
+//  BearLibTerminal-Swift
 //
 //  Created by Steve Johnson on 1/5/18.
 //  Copyright © 2018 Steve Johnson. All rights reserved.
@@ -9,7 +9,12 @@
 import CBearLibTerminal
 
 
-public struct RKConstant {
+/**
+ All constants exposed by BearLibTerminal. See
+ [the original documentation](http://foo.wyrd.name/en:bearlibterminal:reference)
+ for details about each one.
+ */
+public struct BLConstant {
     // Keyboard scancodes for events/states.
     public static let A = TK_A
     public static let B = TK_B
