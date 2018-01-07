@@ -1,0 +1,1034 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 19,
+      "symbol": "BLConstant.A",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 20,
+      "symbol": "BLConstant.B",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 21,
+      "symbol": "BLConstant.C",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 22,
+      "symbol": "BLConstant.D",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 23,
+      "symbol": "BLConstant.E",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 24,
+      "symbol": "BLConstant.F",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 25,
+      "symbol": "BLConstant.G",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 26,
+      "symbol": "BLConstant.H",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 27,
+      "symbol": "BLConstant.I",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 28,
+      "symbol": "BLConstant.J",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 29,
+      "symbol": "BLConstant.K",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 30,
+      "symbol": "BLConstant.L",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 31,
+      "symbol": "BLConstant.M",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 32,
+      "symbol": "BLConstant.N",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 33,
+      "symbol": "BLConstant.O",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 34,
+      "symbol": "BLConstant.P",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 35,
+      "symbol": "BLConstant.Q",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 36,
+      "symbol": "BLConstant.R",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 37,
+      "symbol": "BLConstant.S",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 38,
+      "symbol": "BLConstant.T",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 39,
+      "symbol": "BLConstant.U",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 40,
+      "symbol": "BLConstant.V",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 41,
+      "symbol": "BLConstant.W",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 42,
+      "symbol": "BLConstant.X",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 43,
+      "symbol": "BLConstant.Y",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 44,
+      "symbol": "BLConstant.Z",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 45,
+      "symbol": "BLConstant._1",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 46,
+      "symbol": "BLConstant._2",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 47,
+      "symbol": "BLConstant._3",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 48,
+      "symbol": "BLConstant._4",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 49,
+      "symbol": "BLConstant._5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 50,
+      "symbol": "BLConstant._6",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 51,
+      "symbol": "BLConstant._7",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 52,
+      "symbol": "BLConstant._8",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 53,
+      "symbol": "BLConstant._9",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 54,
+      "symbol": "BLConstant._0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 55,
+      "symbol": "BLConstant.RETURN",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 56,
+      "symbol": "BLConstant.ENTER",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 57,
+      "symbol": "BLConstant.ESCAPE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 58,
+      "symbol": "BLConstant.BACKSPACE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 59,
+      "symbol": "BLConstant.TAB",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 60,
+      "symbol": "BLConstant.SPACE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 61,
+      "symbol": "BLConstant.MINUS",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 62,
+      "symbol": "BLConstant.EQUALS",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 63,
+      "symbol": "BLConstant.LBRACKET",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 64,
+      "symbol": "BLConstant.RBRACKET",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 65,
+      "symbol": "BLConstant.BACKSLASH",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 66,
+      "symbol": "BLConstant.SEMICOLON",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 67,
+      "symbol": "BLConstant.APOSTROPHE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 68,
+      "symbol": "BLConstant.GRAVE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 69,
+      "symbol": "BLConstant.COMMA",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 70,
+      "symbol": "BLConstant.PERIOD",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 71,
+      "symbol": "BLConstant.SLASH",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 72,
+      "symbol": "BLConstant.F1",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 73,
+      "symbol": "BLConstant.F2",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 74,
+      "symbol": "BLConstant.F3",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 75,
+      "symbol": "BLConstant.F4",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 76,
+      "symbol": "BLConstant.F5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 77,
+      "symbol": "BLConstant.F6",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 78,
+      "symbol": "BLConstant.F7",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 79,
+      "symbol": "BLConstant.F8",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 80,
+      "symbol": "BLConstant.F9",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 81,
+      "symbol": "BLConstant.F10",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 82,
+      "symbol": "BLConstant.F11",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 83,
+      "symbol": "BLConstant.F12",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 84,
+      "symbol": "BLConstant.PAUSE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 85,
+      "symbol": "BLConstant.INSERT",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 86,
+      "symbol": "BLConstant.HOME",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 87,
+      "symbol": "BLConstant.PAGEUP",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 88,
+      "symbol": "BLConstant.DELETE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 89,
+      "symbol": "BLConstant.END",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 90,
+      "symbol": "BLConstant.PAGEDOWN",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 91,
+      "symbol": "BLConstant.RIGHT",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 92,
+      "symbol": "BLConstant.LEFT",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 93,
+      "symbol": "BLConstant.DOWN",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 94,
+      "symbol": "BLConstant.UP",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 95,
+      "symbol": "BLConstant.KP_DIVIDE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 96,
+      "symbol": "BLConstant.KP_MULTIPLY",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 97,
+      "symbol": "BLConstant.KP_MINUS",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 98,
+      "symbol": "BLConstant.KP_PLUS",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 99,
+      "symbol": "BLConstant.KP_ENTER",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 100,
+      "symbol": "BLConstant.KP_1",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 101,
+      "symbol": "BLConstant.KP_2",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 102,
+      "symbol": "BLConstant.KP_3",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 103,
+      "symbol": "BLConstant.KP_4",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 104,
+      "symbol": "BLConstant.KP_5",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 105,
+      "symbol": "BLConstant.KP_6",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 106,
+      "symbol": "BLConstant.KP_7",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 107,
+      "symbol": "BLConstant.KP_8",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 108,
+      "symbol": "BLConstant.KP_9",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 109,
+      "symbol": "BLConstant.KP_0",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 110,
+      "symbol": "BLConstant.KP_PERIOD",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 111,
+      "symbol": "BLConstant.SHIFT",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 112,
+      "symbol": "BLConstant.CONTROL",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 113,
+      "symbol": "BLConstant.ALT",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 116,
+      "symbol": "BLConstant.MOUSE_LEFT",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 117,
+      "symbol": "BLConstant.MOUSE_RIGHT",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 118,
+      "symbol": "BLConstant.MOUSE_MIDDLE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 119,
+      "symbol": "BLConstant.MOUSE_X1",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 120,
+      "symbol": "BLConstant.MOUSE_X2",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 121,
+      "symbol": "BLConstant.MOUSE_MOVE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 122,
+      "symbol": "BLConstant.MOUSE_SCROLL",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 123,
+      "symbol": "BLConstant.MOUSE_X",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 124,
+      "symbol": "BLConstant.MOUSE_Y",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 125,
+      "symbol": "BLConstant.MOUSE_PIXEL_X",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 126,
+      "symbol": "BLConstant.MOUSE_PIXEL_Y",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 127,
+      "symbol": "BLConstant.MOUSE_WHEEL",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 128,
+      "symbol": "BLConstant.MOUSE_CLICKS",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 131,
+      "symbol": "BLConstant.KEY_RELEASED",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 135,
+      "symbol": "BLConstant.WIDTH",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 136,
+      "symbol": "BLConstant.HEIGHT",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 137,
+      "symbol": "BLConstant.CELL_WIDTH",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 138,
+      "symbol": "BLConstant.CELL_HEIGHT",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 139,
+      "symbol": "BLConstant.COLOR",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 140,
+      "symbol": "BLConstant.BKCOLOR",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 141,
+      "symbol": "BLConstant.LAYER",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 142,
+      "symbol": "BLConstant.COMPOSITION",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 143,
+      "symbol": "BLConstant.CHAR",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 144,
+      "symbol": "BLConstant.WCHAR",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 145,
+      "symbol": "BLConstant.EVENT",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 146,
+      "symbol": "BLConstant.FULLSCREEN",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 149,
+      "symbol": "BLConstant.CLOSE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 150,
+      "symbol": "BLConstant.RESIZED",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 153,
+      "symbol": "BLConstant.OFF",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 154,
+      "symbol": "BLConstant.ON",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 157,
+      "symbol": "BLConstant.INPUT_NONE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 158,
+      "symbol": "BLConstant.INPUT_CANCELLED",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 161,
+      "symbol": "BLConstant.ALIGN_DEFAULT",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 162,
+      "symbol": "BLConstant.ALIGN_LEFT",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 163,
+      "symbol": "BLConstant.ALIGN_RIGHT",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 164,
+      "symbol": "BLConstant.ALIGN_CENTER",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 165,
+      "symbol": "BLConstant.ALIGN_TOP",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 166,
+      "symbol": "BLConstant.ALIGN_BOTTOM",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal+constants.swift",
+      "line": 167,
+      "symbol": "BLConstant.ALIGN_MIDDLE",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 26,
+      "symbol": "BLRect.x",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 27,
+      "symbol": "BLRect.y",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 28,
+      "symbol": "BLRect.w",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 29,
+      "symbol": "BLRect.h",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 31,
+      "symbol": "BLRect.init(x:y:w:h:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 45,
+      "symbol": "BLPoint.x",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 46,
+      "symbol": "BLPoint.y",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 47,
+      "symbol": "BLPoint.zero",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 49,
+      "symbol": "BLPoint.init(x:y:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 66,
+      "symbol": "BLSize.w",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 67,
+      "symbol": "BLSize.h",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 69,
+      "symbol": "BLSize.init(w:h:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 193,
+      "symbol": "BLTerminal.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/steve/_d/libraries/BearLibTerminal-Swift"
+}

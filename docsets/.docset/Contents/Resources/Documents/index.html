@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>  Reference</title>
+    <link rel="stylesheet" type="text/css" href="css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="js/jquery.min.js" defer></script>
+    <script src="js/jazzy.js" defer></script>
+    
+  </head>
+  <body>
+    <a title="  Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="index.html"> Docs</a> (32% documented)</p>
+        <p class="header-right"><a href="https://github.com/irskep/BearLibTerminal-Swift"><img src="img/gh.png"/>View on GitHub</a></p>
+        <p class="header-right"><a href="dash-feed://http%3A%2F%2Fsteveasleep%2Ecom%2Fdocsets%2F%2Exml"><img src="img/dash.png"/>Install in Dash</a></p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="index.html"> Reference</a>
+        <img id="carat" src="img/carat.png" />
+          Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="Classes/BLTerminal.html">BLTerminal</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="Protocols/BLTerminalInterface.html">BLTerminalInterface</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="Structs.html">Structures</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="Structs/BLConstant.html">BLConstant</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Structs/BLPoint.html">BLPoint</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Structs/BLRect.html">BLRect</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Structs/BLSize.html">BLSize</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="Typealiases.html">Type Aliases</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="Typealiases.html#/s:15BearLibTerminal7BLColora">BLColor</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="Typealiases.html#/s:15BearLibTerminal5BLInta">BLInt</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            
+            <h1 id='bearlibterminal-swift' class='heading'>BearLibTerminal-Swift</h1>
+
+<p>Swifty bindings for <a href="http://foo.wyrd.name/en:bearlibterminal">BearLibTerminal</a>.</p>
+
+<p>This repo is compatible with the Swift package manager. It has not yet been tested
+with Carthage or Cocoapods.</p>
+<pre class="highlight swift"><code><span class="k">let</span> <span class="nv">terminal</span> <span class="o">=</span> <span class="kt">BLTerminal</span><span class="o">.</span><span class="n">main</span>
+<span class="n">terminal</span><span class="o">.</span><span class="nf">open</span><span class="p">()</span>
+<span class="n">terminal</span><span class="o">.</span><span class="nf">print</span><span class="p">(</span><span class="nv">point</span><span class="p">:</span> <span class="kt">BLPoint</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mi">0</span><span class="p">),</span> <span class="nv">string</span><span class="p">:</span> <span class="s">"[color=red]Hi![/color]"</span><span class="p">)</span>
+<span class="n">terminal</span><span class="o">.</span><span class="nf">waitForExit</span><span class="p">()</span>
+<span class="n">terminal</span><span class="o">.</span><span class="nf">close</span><span class="p">()</span>
+</code></pre>
+<h2 id='setup' class='heading'>Setup</h2>
+
+<p>You need to add a new dependency to your <code>Package.swift</code>:</p>
+<pre class="highlight plaintext"><code>// swift-tools-version:4.0
+
+import PackageDescription
+
+let package = Package(
+    name: "My Game",
+    dependencies: [
+         .package(url: "https://github.com/irskep/BearLibTerminal-Swift.git", from: "1.0.1"),
+    ],
+    targets: [
+        .target(
+            name: "My Game",
+            dependencies: ["BearLibTerminal"]),
+
+    ]
+)
+</code></pre>
+
+<p>You <strong>also</strong> need to link against the BearLibTerminal shared library! On OS X,
+that&rsquo;s <code>libBearLibTerminal.dylib</code> (<a href="http://foo.wyrd.name/_media/en:bearlibterminal:bearlibterminal_0.15.7_osx.zip">download</a>).
+See <a href="http://foo.wyrd.name/en:bearlibterminal">the BearLibTerminal site</a> for more links.</p>
+<h2 id='why-it-39-s-better-than-using-the-c-bridge-directly' class='heading'>Why it&rsquo;s better than using the C bridge directly</h2>
+
+<p>The C library plays fast and loose with signedness of ints. You need to convert an <code>Int8</code>
+to a <code>UInt8</code> pretty regularly, and it can be hard to remember where and how to do this.</p>
+
+<p>Also, If you code against the interface, you can write tests for your code without showing
+a GUI.</p>
+<h2 id='docs' class='heading'>Docs</h2>
+
+<p>If you&rsquo;re reading this from GitHub, please <a href="http://steveasleep.com/BearLibTerminal-Swift">visit the full documentation.</a></p>
+
+<p>If you would like more documentation, please open a GitHub issue so
+I know someone cares!</p>
+
+          </section>
+        </section>
+        <section id="footer">
+          <p>2018 Steve Johnson</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.9.0</a>, a <a class="link" href="http://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>
