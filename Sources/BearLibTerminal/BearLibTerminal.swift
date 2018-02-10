@@ -22,7 +22,7 @@ public typealias BLColor = UInt32
  this instead of CGRect to avoid a Core Graphics dependency, making Linux
  support possible.)
  */
-public struct BLRect: Equatable {
+public struct BLRect: Equatable, Codable {
     public var x: BLInt
     public var y: BLInt
     public var w: BLInt
@@ -41,7 +41,7 @@ public struct BLRect: Equatable {
  this instead of CGPoint to avoid a Core Graphics dependency, making Linux
  support possible.)
  */
-public struct BLPoint: Equatable {
+public struct BLPoint: Equatable, Codable {
     public var x: BLInt
     public var y: BLInt
     public static var zero = BLPoint(x: 0, y: 0)
@@ -62,7 +62,7 @@ extension BLPoint: Hashable {
  this instead of CGSize to avoid a Core Graphics dependency, making Linux
  support possible.)
  */
-public struct BLSize: Equatable {
+public struct BLSize: Equatable, Codable {
     public var w: BLInt
     public var h: BLInt
     public static func ==(_ a: BLSize, _ b: BLSize) -> Bool { return a.w == b.w && a.h == b.h }
