@@ -117,6 +117,9 @@ public protocol BLTerminalInterface: class {
     /// `terminal_print()`
     @discardableResult func print(point: BLPoint, string: String) -> BLSize
 
+    /// `terminal_print_ext()`
+    @discardableResult func print(rect: BLRect, align: BLInt, string: String) -> BLSize
+
     /// `terminal_put()`
     func put(point: BLPoint, code: BLInt)
 
@@ -232,6 +235,13 @@ public class BLTerminal: BLTerminalInterface {
     public func print(point: BLPoint, string: String) -> BLSize {
         let s = Array(string.utf8CString)
         let result = terminal_print(point.x, point.y, UnsafePointer(s))
+        return BLSize(w: result.width, h: result.height)
+    }
+
+    @discardableResult
+    public func print(rect: BLRect, align: BLInt, string: String) -> BLSize {
+        let s = Array(string.utf8CString)
+        let result = terminal_print_ext(rect.x, rect.y, rect.w, rect.h, align, UnsafePointer(s))
         return BLSize(w: result.width, h: result.height)
     }
 
