@@ -114,6 +114,9 @@ public protocol BLTerminalInterface: class {
     /// `terminal_measure()`
     func measure(string: String) -> BLSize
 
+    /// `terminal_measure_ext()`
+    func measure(size: BLSize, align: BLInt, string: String) -> BLSize
+
     /// `terminal_print()`
     @discardableResult func print(point: BLPoint, string: String) -> BLSize
 
@@ -228,6 +231,12 @@ public class BLTerminal: BLTerminalInterface {
     public func measure(string: String) -> BLSize {
         let s = Array(string.utf8CString)
         let result: dimensions_t = terminal_measure(UnsafePointer(s))
+        return BLSize(w: result.width, h: result.height)
+    }
+
+    public func measure(size: BLSize, align: BLInt, string: String) -> BLSize {
+        let s = Array(string.utf8CString)
+        let result: dimensions_t = terminal_measure_ext(size.w, size.h, UnsafePointer(s))
         return BLSize(w: result.width, h: result.height)
     }
 
