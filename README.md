@@ -1,6 +1,6 @@
 # BearLibTerminal-Swift
 
-**Latest version: 1.0.1**
+**Latest version: 1.0.5**
 
 Swifty bindings for [BearLibTerminal](http://foo.wyrd.name/en:bearlibterminal).
 
@@ -27,7 +27,7 @@ import PackageDescription
 let package = Package(
     name: "My Game",
     dependencies: [
-         .package(url: "https://github.com/irskep/BearLibTerminal-Swift.git", from: "1.0.1"),
+         .package(url: "https://github.com/irskep/BearLibTerminal-Swift.git", from: "1.0.5"),
     ],
     targets: [
         .target(
