@@ -234,7 +234,7 @@ public class BLTerminal: BLTerminalInterface {
         return BLSize(w: result.width, h: result.height)
     }
 
-    public func measure(size: BLSize, align: BLInt, string: String) -> BLSize {
+    public func measure(size: BLSize, string: String) -> BLSize {
         let s = Array(string.utf8CString)
         let result: dimensions_t = terminal_measure_ext(size.w, size.h, UnsafePointer(s))
         return BLSize(w: result.width, h: result.height)
