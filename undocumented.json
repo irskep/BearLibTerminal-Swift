@@ -1024,9 +1024,212 @@
     },
     {
       "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
-      "line": 193,
+      "line": 199,
       "symbol": "BLTerminal.init()",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 201,
+      "symbol": "BLTerminal.open()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 203,
+      "symbol": "BLTerminal.close()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 206,
+      "symbol": "BLTerminal.configure(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 211,
+      "symbol": "BLTerminal.refresh()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 213,
+      "symbol": "BLTerminal.clear()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 215,
+      "symbol": "BLTerminal.check(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 217,
+      "symbol": "BLTerminal.state(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 219,
+      "symbol": "BLTerminal.clear(area:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 223,
+      "symbol": "BLTerminal.crop(area:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 227,
+      "symbol": "BLTerminal.delay(milliseconds:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 231,
+      "symbol": "BLTerminal.measure(string:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 237,
+      "symbol": "BLTerminal.measure(size:string:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 244,
+      "symbol": "BLTerminal.print(point:string:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 251,
+      "symbol": "BLTerminal.print(rect:align:string:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 257,
+      "symbol": "BLTerminal.put(point:code:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 261,
+      "symbol": "BLTerminal.put(point:code:offset:nw:sw:se:ne:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 267,
+      "symbol": "BLTerminal.getColor(name:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 272,
+      "symbol": "BLTerminal.getColor(a:r:g:b:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 276,
+      "symbol": "BLTerminal.pickCode(point:index:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 280,
+      "symbol": "BLTerminal.pickForegroundColor(point:index:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 284,
+      "symbol": "BLTerminal.pickBackgroundColor(point:index:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 288,
+      "symbol": "BLTerminal.peek()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 292,
+      "symbol": "BLTerminal.read()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 296,
+      "symbol": "BLTerminal.readString(point:max:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 310,
+      "symbol": "BLTerminal.hasInput",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 314,
+      "symbol": "BLTerminal.layer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 319,
+      "symbol": "BLTerminal.foregroundColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 324,
+      "symbol": "BLTerminal.backgroundColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/steve/_d/libraries/BearLibTerminal-Swift/Sources/BearLibTerminal/BearLibTerminal.swift",
+      "line": 329,
+      "symbol": "BLTerminal.isCompositionEnabled",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     }
   ],
