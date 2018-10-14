@@ -1,6 +1,6 @@
 # BearLibTerminal-Swift
 
-**Latest version: 1.0.5**
+**Latest version: 1.0.7**
 
 Swifty bindings for [BearLibTerminal](http://foo.wyrd.name/en:bearlibterminal).
 
